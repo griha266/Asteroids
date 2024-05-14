@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd53e7b1e7464ad5bf02d1659cd220a1, type: 3}
+  m_Name: GameResources
+  m_EditorClassIdentifier: 
+  PlayerViewPrefab: {fileID: 7067121064090746308, guid: 70be39661f87f6f198c446b64a46d1a4, type: 3}
+  EnemyViewPrefab: {fileID: 1139238882428184562, guid: 4cece42ed47a11235ab02f2ab9b3e8cc, type: 3}
+  BigAsteroidViewPrefab: {fileID: 3578552246333391092, guid: 51f41e69428cd946bba10891b520589b, type: 3}
+  SmallAsteroidViewPrefab: {fileID: 573767841011490323, guid: e08d2dd6fc4028ab4a70fe513a13598a, type: 3}
+  GameUIViewPrefab: {fileID: 7139940920213943477, guid: fc9bd293df4e28f33b8b49db2cdbb0c0, type: 3}
+  ExplosionViewPrefab: {fileID: 1139238882428184562, guid: 4cece42ed47a11235ab02f2ab9b3e8cc, type: 3}
+  BulletViewPrefab: {fileID: 2324980158953184982, guid: 5013e43da4fd50ab091c2e59e2af922c, type: 3}
+  LaserRayViewPrefab: {fileID: 6489517394899037653, guid: f1f6226531b638802aa7223eb4233da7, type: 3}
