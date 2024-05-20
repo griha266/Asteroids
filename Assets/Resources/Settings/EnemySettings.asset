@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c44634a42462412d8f1ebe084c03b32f, type: 3}
+  m_Name: EnemySettings
+  m_EditorClassIdentifier: 
+  enemyPrefab: {fileID: 7273934778132054612, guid: 199ab8536ccdbe95789b823f669d3c32, type: 3}
+  spawnDuration: 3
+  maxEnemiesCount: 2
+  maxVelocity: 3
+  maxAvoidanceForce: 5
+  avoidDistance: 5

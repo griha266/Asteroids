@@ -1,0 +1,17 @@
+{
+    "name": "Asteroids.Audio",
+    "rootNamespace": "Asteroids.Audio",
+    "references": [
+        "GUID:58f9a143cfc10b8a69afe09081a99dc9",
+        "GUID:d577f6e3936fa707e8addfffb96b6e33"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

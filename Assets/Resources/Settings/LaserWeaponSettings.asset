@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d865868fae9f4930b60343f615d947db, type: 3}
+  m_Name: LaserWeaponSettings
+  m_EditorClassIdentifier: 
+  reloadDuration: 10
+  maxAmmo: 3
+  spawnBulletVelocity: 6
+  damage: 2
+  bulletPrefab: {fileID: 3074281346655639935, guid: 50103f334c48c12e4bdd5f0546d85fdc, type: 3}
+  destroyBulletsOnCollision: 0

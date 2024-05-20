@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: afdaba57d68b42a8853cd63613ffe314, type: 3}
+  m_Name: AudioSettings
+  m_EditorClassIdentifier: 
+  gameOverSound: {fileID: 8300000, guid: 7b0a1ab53a2c640238d8d6999b16cbf5, type: 3}
+  explosionSound: {fileID: 8300000, guid: e547c9ee59d5079f1b15f134fb012965, type: 3}
+  regularShootSound: {fileID: 8300000, guid: 8a3e67921eecdcc658d9c6867449e38b, type: 3}
+  laserShootSound: {fileID: 8300000, guid: 1e6de4901be5b0f168bcdfae94ec0f65, type: 3}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd53e7b1e7464ad5bf02d1659cd220a1, type: 3}
+  m_Name: GameSettings
+  m_EditorClassIdentifier: 
+  playerSettings: {fileID: 11400000, guid: dee20b93cac039d4388f586a58cb10bb, type: 2}
+  enemySettings: {fileID: 11400000, guid: b46a839217d2686e182265dd8d317384, type: 2}
+  asteroidsSettings: {fileID: 11400000, guid: 91e1000f975c8e7638df1d94acfa1dcf, type: 2}
+  explosionSettings: {fileID: 11400000, guid: c7bcac7dd1dade608aa6f1b8bb9e01b4, type: 2}
+  laserSettings: {fileID: 11400000, guid: 7c8970a22e32acf13b902e4683411ebb, type: 2}
+  regularWeaponSettings: {fileID: 11400000, guid: 55d550951c212cd07b1702a6f084ec44, type: 2}
+  audioSettings: {fileID: 11400000, guid: 85f4c6fc2c12f362dbe9dbc7cc57adc4, type: 2}
+  offscreenBorderSize: 1
